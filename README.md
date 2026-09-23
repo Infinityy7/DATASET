@@ -4,6 +4,7 @@ Organized dataset/repository collection downloaded by Hermes.
 
 ## Folder layout
 
+- `curated/` — reviewed selection candidates for pentest methodology, scanning, and foothold concepts, with provenance and review status. Read its README before training.
 - `01_core_sft/` — datasets intended for supervised fine-tuning / instruction tuning.
 - `02_eval_safety/` — red-team, jailbreak, model-safety, and benchmark/evaluation repos.
 - `03_payload_wordlists_rag/` — payloads, wordlists, templates, and reference corpora; best used for RAG/evals rather than raw SFT.
