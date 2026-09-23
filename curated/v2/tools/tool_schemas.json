@@ -1,0 +1,328 @@
+[
+  {
+    "type": "function",
+    "function": {
+      "name": "nmap",
+      "description": "Run a bounded network inventory scan against an approved lab asset; returns structured observations, not an exploit result.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "engagement_id": {
+            "type": "string",
+            "description": "Approved engagement identifier"
+          },
+          "asset_id": {
+            "type": "string",
+            "description": "Inventory asset identifier"
+          },
+          "profile": {
+            "type": "string",
+            "description": "Bounded scan profile",
+            "enum": [
+              "host_discovery",
+              "tcp_connect",
+              "syn",
+              "udp",
+              "service_version"
+            ]
+          }
+        },
+        "required": [
+          "engagement_id",
+          "asset_id",
+          "profile"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "ffuf",
+      "description": "Run rate-limited web content or virtual-host discovery against an approved lab service.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "engagement_id": {
+            "type": "string",
+            "description": "Approved engagement identifier"
+          },
+          "service_id": {
+            "type": "string",
+            "description": "In-scope web service identifier"
+          },
+          "profile": {
+            "type": "string",
+            "description": "Discovery profile",
+            "enum": [
+              "paths",
+              "vhosts",
+              "parameters"
+            ]
+          },
+          "candidate_set_id": {
+            "type": "string",
+            "description": "Approved small candidate set identifier"
+          }
+        },
+        "required": [
+          "engagement_id",
+          "service_id",
+          "profile",
+          "candidate_set_id"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "hashcat",
+      "description": "Audit an authorized lab hash artifact with a bounded approved candidate set; never return plaintext secrets.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "engagement_id": {
+            "type": "string",
+            "description": "Approved engagement identifier"
+          },
+          "artifact_id": {
+            "type": "string",
+            "description": "Lab hash artifact identifier"
+          },
+          "profile": {
+            "type": "string",
+            "description": "Audit action",
+            "enum": [
+              "format_check",
+              "bounded_dictionary",
+              "status"
+            ]
+          }
+        },
+        "required": [
+          "engagement_id",
+          "artifact_id",
+          "profile"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "john",
+      "description": "Audit an authorized lab password-hash artifact with a bounded candidate set; never return plaintext secrets.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "engagement_id": {
+            "type": "string",
+            "description": "Approved engagement identifier"
+          },
+          "artifact_id": {
+            "type": "string",
+            "description": "Lab hash artifact identifier"
+          },
+          "profile": {
+            "type": "string",
+            "description": "Audit action",
+            "enum": [
+              "format_check",
+              "bounded_dictionary",
+              "status"
+            ]
+          }
+        },
+        "required": [
+          "engagement_id",
+          "artifact_id",
+          "profile"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "kerberos_inspect",
+      "description": "Inspect a provided lab Kerberos ticket or directory artifact without requesting credentials or tickets.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "engagement_id": {
+            "type": "string",
+            "description": "Approved engagement identifier"
+          },
+          "artifact_id": {
+            "type": "string",
+            "description": "Lab ticket or directory artifact identifier"
+          },
+          "profile": {
+            "type": "string",
+            "description": "Inspection type",
+            "enum": [
+              "ticket_summary",
+              "spn_inventory",
+              "encryption_policy",
+              "clock_check"
+            ]
+          }
+        },
+        "required": [
+          "engagement_id",
+          "artifact_id",
+          "profile"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "linpeas",
+      "description": "Analyze local Linux configuration on an approved lab host using a bounded read-only profile.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "engagement_id": {
+            "type": "string",
+            "description": "Approved engagement identifier"
+          },
+          "host_id": {
+            "type": "string",
+            "description": "Approved lab host identifier"
+          },
+          "profile": {
+            "type": "string",
+            "description": "Read-only check profile",
+            "enum": [
+              "minimal",
+              "standard"
+            ]
+          }
+        },
+        "required": [
+          "engagement_id",
+          "host_id",
+          "profile"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "winpeas",
+      "description": "Analyze local Windows configuration on an approved lab host using a bounded read-only profile.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "engagement_id": {
+            "type": "string",
+            "description": "Approved engagement identifier"
+          },
+          "host_id": {
+            "type": "string",
+            "description": "Approved lab host identifier"
+          },
+          "profile": {
+            "type": "string",
+            "description": "Read-only check profile",
+            "enum": [
+              "minimal",
+              "standard"
+            ]
+          }
+        },
+        "required": [
+          "engagement_id",
+          "host_id",
+          "profile"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "evil_winrm",
+      "description": "Check a previously approved WinRM session and current identity on an in-scope lab host; no arbitrary command execution.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "engagement_id": {
+            "type": "string",
+            "description": "Approved engagement identifier"
+          },
+          "host_id": {
+            "type": "string",
+            "description": "Approved lab host identifier"
+          },
+          "credential_ref": {
+            "type": "string",
+            "description": "Secret-store reference, never a password"
+          },
+          "action": {
+            "type": "string",
+            "description": "Bounded action",
+            "enum": [
+              "connectivity_check",
+              "identity_check"
+            ]
+          }
+        },
+        "required": [
+          "engagement_id",
+          "host_id",
+          "credential_ref",
+          "action"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "bloodhound",
+      "description": "Read a pre-collected lab identity graph using a bounded query template.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "engagement_id": {
+            "type": "string",
+            "description": "Approved engagement identifier"
+          },
+          "snapshot_id": {
+            "type": "string",
+            "description": "Approved graph snapshot identifier"
+          },
+          "query": {
+            "type": "string",
+            "description": "Read-only query template",
+            "enum": [
+              "privileged_membership",
+              "shortest_path_summary",
+              "delegation_review",
+              "data_freshness"
+            ]
+          }
+        },
+        "required": [
+          "engagement_id",
+          "snapshot_id",
+          "query"
+        ],
+        "additionalProperties": false
+      }
+    }
+  }
+]
