@@ -1,0 +1,167 @@
+{
+  "created_at": "2026-09-01T00:28:41.243280Z",
+  "base_path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets",
+  "github_repos": [
+    {
+      "category": "01_core_sft",
+      "name": "reloading01__threat-intelligence-dataset",
+      "exists": true,
+      "git_ok": true,
+      "commit": "f35a089",
+      "files": 35,
+      "size_bytes": 41791763,
+      "size": "39.9 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\01_core_sft\\reloading01__threat-intelligence-dataset"
+    },
+    {
+      "category": "01_core_sft",
+      "name": "Veedubin__attacklm-dataset",
+      "exists": true,
+      "git_ok": true,
+      "commit": "431d858",
+      "files": 8283,
+      "size_bytes": 1706797597,
+      "size": "1.6 GB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\01_core_sft\\Veedubin__attacklm-dataset"
+    },
+    {
+      "category": "01_core_sft",
+      "name": "theelderemo__pentesting-explanations",
+      "exists": true,
+      "git_ok": true,
+      "commit": "c8910cc",
+      "files": 51,
+      "size_bytes": 33894659,
+      "size": "32.3 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\01_core_sft\\theelderemo__pentesting-explanations"
+    },
+    {
+      "category": "02_eval_safety",
+      "name": "centerforaisafety__HarmBench",
+      "exists": true,
+      "git_ok": true,
+      "commit": "8e1604d",
+      "files": 458,
+      "size_bytes": 490319402,
+      "size": "467.6 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\centerforaisafety__HarmBench"
+    },
+    {
+      "category": "02_eval_safety",
+      "name": "llm-attacks__llm-attacks",
+      "exists": true,
+      "git_ok": true,
+      "commit": "098262e",
+      "files": 65,
+      "size_bytes": 468436,
+      "size": "457.5 KB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\llm-attacks__llm-attacks"
+    },
+    {
+      "category": "02_eval_safety",
+      "name": "meta-llama__PurpleLlama",
+      "exists": true,
+      "git_ok": true,
+      "commit": "4be64c3",
+      "files": 923,
+      "size_bytes": 149375335,
+      "size": "142.5 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\meta-llama__PurpleLlama"
+    },
+    {
+      "category": "02_eval_safety",
+      "name": "Azure__PyRIT",
+      "exists": true,
+      "git_ok": true,
+      "commit": "bec7cb5",
+      "files": 38,
+      "size_bytes": 2653299,
+      "size": "2.5 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\Azure__PyRIT"
+    },
+    {
+      "category": "03_payload_wordlists_rag",
+      "name": "danielmiessler__SecLists",
+      "exists": true,
+      "git_ok": true,
+      "commit": "8a52c0a",
+      "files": 6301,
+      "size_bytes": 2782677620,
+      "size": "2.6 GB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\danielmiessler__SecLists"
+    },
+    {
+      "category": "03_payload_wordlists_rag",
+      "name": "swisskyrepo__PayloadsAllTheThings",
+      "exists": true,
+      "git_ok": true,
+      "commit": "3ac2790",
+      "files": 481,
+      "size_bytes": 20910788,
+      "size": "19.9 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\swisskyrepo__PayloadsAllTheThings"
+    },
+    {
+      "category": "03_payload_wordlists_rag",
+      "name": "fuzzdb-project__fuzzdb",
+      "exists": true,
+      "git_ok": true,
+      "commit": "5656ab2",
+      "files": 425,
+      "size_bytes": 23740243,
+      "size": "22.6 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\fuzzdb-project__fuzzdb"
+    },
+    {
+      "category": "03_payload_wordlists_rag",
+      "name": "projectdiscovery__nuclei-templates",
+      "exists": true,
+      "git_ok": true,
+      "commit": "5a6c6d7",
+      "files": 14081,
+      "size_bytes": 64100438,
+      "size": "61.1 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\projectdiscovery__nuclei-templates"
+    },
+    {
+      "category": "03_payload_wordlists_rag",
+      "name": "foospidy__payloads",
+      "exists": true,
+      "git_ok": true,
+      "commit": "38ac97f",
+      "files": 100,
+      "size_bytes": 189976113,
+      "size": "181.2 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\foospidy__payloads"
+    },
+    {
+      "category": "04_network_packet_analysis",
+      "name": "Cyphercoda__LLM-Packet-Analyzer",
+      "exists": true,
+      "git_ok": true,
+      "commit": "6c192c7",
+      "files": 31,
+      "size_bytes": 59618,
+      "size": "58.2 KB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\04_network_packet_analysis\\Cyphercoda__LLM-Packet-Analyzer"
+    }
+  ],
+  "huggingface_snapshots": [
+    {
+      "name": "reloading0101__threat-intelligence-dataset",
+      "files": 5,
+      "size_bytes": 35659326,
+      "size": "34.0 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\_hf_datasets\\reloading0101__threat-intelligence-dataset"
+    },
+    {
+      "name": "theelderemo__pentesting-explanations",
+      "files": 3,
+      "size_bytes": 17875560,
+      "size": "17.0 MB",
+      "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\_hf_datasets\\theelderemo__pentesting-explanations"
+    }
+  ],
+  "github_ok_count": 13,
+  "github_expected_count": 13
+}

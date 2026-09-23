@@ -1,0 +1,121 @@
+[
+  {
+    "category": "02_eval_safety",
+    "owner": "llm-attacks",
+    "repo": "llm-attacks",
+    "url": "https://github.com/llm-attacks/llm-attacks.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\llm-attacks__llm-attacks",
+    "started_at": "2026-09-01T00:22:58.302959Z",
+    "attempts": [
+      {
+        "attempt": 1,
+        "exit_code": 0,
+        "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\llm-attacks__llm-attacks'...\n"
+      }
+    ],
+    "status": "ok",
+    "commit": "098262edf85f807224e70ecd87b9d83716bf6b73"
+  },
+  {
+    "category": "02_eval_safety",
+    "owner": "meta-llama",
+    "repo": "PurpleLlama",
+    "url": "https://github.com/meta-llama/PurpleLlama.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\meta-llama__PurpleLlama",
+    "started_at": "2026-09-01T00:22:59.186355Z",
+    "attempts": [
+      {
+        "attempt": 1,
+        "exit_code": 0,
+        "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\meta-llama__PurpleLlama'...\n"
+      }
+    ],
+    "status": "ok",
+    "commit": "4be64c3a24442b51c76175e6ec67722cc3f5fe38"
+  },
+  {
+    "category": "02_eval_safety",
+    "owner": "Azure",
+    "repo": "PyRIT",
+    "url": "https://github.com/Azure/PyRIT.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\Azure__PyRIT",
+    "started_at": "2026-09-01T00:23:10.643709Z",
+    "attempts": [
+      {
+        "attempt": 1,
+        "exit_code": 0,
+        "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\Azure__PyRIT'...\n"
+      }
+    ],
+    "status": "ok",
+    "commit": "bec7cb5d6089481d75fb8df143793de3da6905f5"
+  },
+  {
+    "category": "03_payload_wordlists_rag",
+    "owner": "danielmiessler",
+    "repo": "SecLists",
+    "url": "https://github.com/danielmiessler/SecLists.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\danielmiessler__SecLists",
+    "started_at": "2026-09-01T00:23:12.672241Z",
+    "attempts": [
+      {
+        "attempt": 1,
+        "exit_code": 0,
+        "output_tail": "  33% (2070/6272)\nUpdating files:  34% (2133/6272)\nUpdating files:  35% (2196/6272)\nUpdating files:  36% (2258/6272)\nUpdating files:  37% (2321/6272)\nUpdating files:  38% (2384/6272)\nUpdating files:  39% (2447/6272)\nUpdating files:  40% (2509/6272)\nUpdating files:  41% (2572/6272)\nUpdating files:  42% (2635/6272)\nUpdating files:  43% (2697/6272)\nUpdating files:  44% (2760/6272)\nUpdating files:  45% (2823/6272)\nUpdating files:  46% (2886/6272)\nUpdating files:  47% (2948/6272)\nUpdating files:  48% (3011/6272)\nUpdating files:  49% (3074/6272)\nUpdating files:  50% (3136/6272)\nUpdating files:  51% (3199/6272)\nUpdating files:  52% (3262/6272)\nUpdating files:  53% (3325/6272)\nUpdating files:  54% (3387/6272)\nUpdating files:  55% (3450/6272)\nUpdating files:  56% (3513/6272)\nUpdating files:  56% (3540/6272)\nUpdating files:  57% (3576/6272)\nUpdating files:  58% (3638/6272)\nUpdating files:  59% (3701/6272)\nUpdating files:  60% (3764/6272)\nUpdating files:  61% (3826/6272)\nUpdating files:  62% (3889/6272)\nUpdating files:  63% (3952/6272)\nUpdating files:  64% (4015/6272)\nUpdating files:  65% (4077/6272)\nUpdating files:  66% (4140/6272)\nUpdating files:  67% (4203/6272)\nUpdating files:  68% (4265/6272)\nUpdating files:  69% (4328/6272)\nUpdating files:  70% (4391/6272)\nUpdating files:  71% (4454/6272)\nUpdating files:  72% (4516/6272)\nUpdating files:  73% (4579/6272)\nUpdating files:  74% (4642/6272)\nUpdating files:  75% (4704/6272)\nUpdating files:  76% (4767/6272)\nUpdating files:  77% (4830/6272)\nUpdating files:  78% (4893/6272)\nUpdating files:  78% (4919/6272)\nUpdating files:  79% (4955/6272)\nUpdating files:  80% (5018/6272)\nUpdating files:  81% (5081/6272)\nUpdating files:  82% (5144/6272)\nUpdating files:  83% (5206/6272)\nUpdating files:  84% (5269/6272)\nUpdating files:  85% (5332/6272)\nUpdating files:  85% (5375/6272)\nUpdating files:  86% (5394/6272)\nUpdating files:  86% (5446/6272)\nUpdating files:  87% (5457/6272)\nUpdating files:  87% (5511/6272)\nUpdating files:  88% (5520/6272)\nUpdating files:  89% (5583/6272)\nUpdating files:  90% (5645/6272)\nUpdating files:  91% (5708/6272)\nUpdating files:  92% (5771/6272)\nUpdating files:  93% (5833/6272)\nUpdating files:  94% (5896/6272)\nUpdating files:  95% (5959/6272)\nUpdating files:  96% (6022/6272)\nUpdating files:  96% (6036/6272)\nUpdating files:  97% (6084/6272)\nUpdating files:  97% (6141/6272)\nUpdating files:  98% (6147/6272)\nUpdating files:  99% (6210/6272)\nUpdating files: 100% (6272/6272)\nUpdating files: 100% (6272/6272), done.\n"
+      }
+    ],
+    "status": "ok",
+    "commit": "8a52c0a7e6edaaf0378dd9e4446c3d8039e2ff4c"
+  },
+  {
+    "category": "03_payload_wordlists_rag",
+    "owner": "swisskyrepo",
+    "repo": "PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\swisskyrepo__PayloadsAllTheThings",
+    "started_at": "2026-09-01T00:26:50.076255Z",
+    "attempts": [
+      {
+        "attempt": 1,
+        "exit_code": 0,
+        "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\swisskyrepo__PayloadsAllTheThings'...\n"
+      }
+    ],
+    "status": "ok",
+    "commit": "3ac27901c711bdf3f5b65a7b1d1820a1f65bd09a"
+  },
+  {
+    "category": "03_payload_wordlists_rag",
+    "owner": "fuzzdb-project",
+    "repo": "fuzzdb",
+    "url": "https://github.com/fuzzdb-project/fuzzdb.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\fuzzdb-project__fuzzdb",
+    "started_at": "2026-09-01T00:26:52.795093Z",
+    "attempts": [
+      {
+        "attempt": 1,
+        "exit_code": 0,
+        "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\fuzzdb-project__fuzzdb'...\n"
+      }
+    ],
+    "status": "ok",
+    "commit": "5656ab25dc6bb43bae32236fab775658a90d7380"
+  },
+  {
+    "category": "03_payload_wordlists_rag",
+    "owner": "projectdiscovery",
+    "repo": "nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\projectdiscovery__nuclei-templates",
+    "started_at": "2026-09-01T00:26:55.907582Z",
+    "attempts": [
+      {
+        "attempt": 1,
+        "exit_code": 0,
+        "output_tail": "(4638/14052)\nUpdating files:  34% (4778/14052)\nUpdating files:  35% (4919/14052)\nUpdating files:  36% (5059/14052)\nUpdating files:  37% (5200/14052)\nUpdating files:  38% (5340/14052)\nUpdating files:  39% (5481/14052)\nUpdating files:  40% (5621/14052)\nUpdating files:  40% (5685/14052)\nUpdating files:  41% (5762/14052)\nUpdating files:  42% (5902/14052)\nUpdating files:  43% (6043/14052)\nUpdating files:  44% (6183/14052)\nUpdating files:  45% (6324/14052)\nUpdating files:  46% (6464/14052)\nUpdating files:  47% (6605/14052)\nUpdating files:  48% (6745/14052)\nUpdating files:  49% (6886/14052)\nUpdating files:  50% (7026/14052)\nUpdating files:  51% (7167/14052)\nUpdating files:  52% (7308/14052)\nUpdating files:  53% (7448/14052)\nUpdating files:  54% (7589/14052)\nUpdating files:  55% (7729/14052)\nUpdating files:  56% (7870/14052)\nUpdating files:  57% (8010/14052)\nUpdating files:  58% (8151/14052)\nUpdating files:  59% (8291/14052)\nUpdating files:  60% (8432/14052)\nUpdating files:  60% (8472/14052)\nUpdating files:  61% (8572/14052)\nUpdating files:  62% (8713/14052)\nUpdating files:  63% (8853/14052)\nUpdating files:  64% (8994/14052)\nUpdating files:  65% (9134/14052)\nUpdating files:  66% (9275/14052)\nUpdating files:  67% (9415/14052)\nUpdating files:  68% (9556/14052)\nUpdating files:  69% (9696/14052)\nUpdating files:  70% (9837/14052)\nUpdating files:  71% (9977/14052)\nUpdating files:  72% (10118/14052)\nUpdating files:  73% (10258/14052)\nUpdating files:  74% (10399/14052)\nUpdating files:  75% (10539/14052)\nUpdating files:  76% (10680/14052)\nUpdating files:  77% (10821/14052)\nUpdating files:  78% (10961/14052)\nUpdating files:  79% (11102/14052)\nUpdating files:  80% (11242/14052)\nUpdating files:  80% (11310/14052)\nUpdating files:  81% (11383/14052)\nUpdating files:  82% (11523/14052)\nUpdating files:  83% (11664/14052)\nUpdating files:  84% (11804/14052)\nUpdating files:  85% (11945/14052)\nUpdating files:  86% (12085/14052)\nUpdating files:  87% (12226/14052)\nUpdating files:  88% (12366/14052)\nUpdating files:  89% (12507/14052)\nUpdating files:  90% (12647/14052)\nUpdating files:  91% (12788/14052)\nUpdating files:  92% (12928/14052)\nUpdating files:  93% (13069/14052)\nUpdating files:  94% (13209/14052)\nUpdating files:  95% (13350/14052)\nUpdating files:  96% (13490/14052)\nUpdating files:  97% (13631/14052)\nUpdating files:  98% (13771/14052)\nUpdating files:  99% (13912/14052)\nUpdating files:  99% (14047/14052)\nUpdating files: 100% (14052/14052)\nUpdating files: 100% (14052/14052), done.\n"
+      }
+    ],
+    "status": "ok",
+    "commit": "5a6c6d7139406439e2bd9a217a048f975445d0ac"
+  }
+]

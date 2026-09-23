@@ -1,0 +1,74 @@
+[
+  {
+    "dataset": "reloading0101/threat-intelligence-dataset",
+    "file": "README.md",
+    "url": "https://huggingface.co/datasets/reloading0101/threat-intelligence-dataset/resolve/main/README.md",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\_hf_datasets\\reloading0101__threat-intelligence-dataset\\README.md",
+    "started_at": "2026-09-01T00:27:47.402171Z",
+    "status": "ok",
+    "bytes": 8705
+  },
+  {
+    "dataset": "reloading0101/threat-intelligence-dataset",
+    "file": "data/eval.jsonl",
+    "url": "https://huggingface.co/datasets/reloading0101/threat-intelligence-dataset/resolve/main/data/eval.jsonl",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\_hf_datasets\\reloading0101__threat-intelligence-dataset\\data\\eval.jsonl",
+    "started_at": "2026-09-01T00:27:48.157702Z",
+    "status": "ok",
+    "bytes": 1208778
+  },
+  {
+    "dataset": "reloading0101/threat-intelligence-dataset",
+    "file": "data/train.jsonl",
+    "url": "https://huggingface.co/datasets/reloading0101/threat-intelligence-dataset/resolve/main/data/train.jsonl",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\_hf_datasets\\reloading0101__threat-intelligence-dataset\\data\\train.jsonl",
+    "started_at": "2026-09-01T00:27:51.111211Z",
+    "status": "ok",
+    "bytes": 13908156
+  },
+  {
+    "dataset": "reloading0101/threat-intelligence-dataset",
+    "file": "data/train_blended.jsonl",
+    "url": "https://huggingface.co/datasets/reloading0101/threat-intelligence-dataset/resolve/main/data/train_blended.jsonl",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\_hf_datasets\\reloading0101__threat-intelligence-dataset\\data\\train_blended.jsonl",
+    "started_at": "2026-09-01T00:27:54.637685Z",
+    "status": "ok",
+    "bytes": 17149441
+  },
+  {
+    "dataset": "reloading0101/threat-intelligence-dataset",
+    "file": "data/train_multiturn.jsonl",
+    "url": "https://huggingface.co/datasets/reloading0101/threat-intelligence-dataset/resolve/main/data/train_multiturn.jsonl",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\_hf_datasets\\reloading0101__threat-intelligence-dataset\\data\\train_multiturn.jsonl",
+    "started_at": "2026-09-01T00:27:58.367733Z",
+    "status": "ok",
+    "bytes": 3384246
+  },
+  {
+    "dataset": "theelderemo/pentesting-explanations",
+    "file": "README.md",
+    "url": "https://huggingface.co/datasets/theelderemo/pentesting-explanations/resolve/main/README.md",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\_hf_datasets\\theelderemo__pentesting-explanations\\README.md",
+    "started_at": "2026-09-01T00:28:00.301805Z",
+    "status": "ok",
+    "bytes": 31516
+  },
+  {
+    "dataset": "theelderemo/pentesting-explanations",
+    "file": "data/train-00000.parquet",
+    "url": "https://huggingface.co/datasets/theelderemo/pentesting-explanations/resolve/main/data/train-00000.parquet",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\_hf_datasets\\theelderemo__pentesting-explanations\\data\\train-00000.parquet",
+    "started_at": "2026-09-01T00:28:01.135589Z",
+    "status": "ok",
+    "bytes": 9479209
+  },
+  {
+    "dataset": "theelderemo/pentesting-explanations",
+    "file": "data/train-00001.parquet",
+    "url": "https://huggingface.co/datasets/theelderemo/pentesting-explanations/resolve/main/data/train-00001.parquet",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\_hf_datasets\\theelderemo__pentesting-explanations\\data\\train-00001.parquet",
+    "started_at": "2026-09-01T00:28:03.439251Z",
+    "status": "ok",
+    "bytes": 8364835
+  }
+]

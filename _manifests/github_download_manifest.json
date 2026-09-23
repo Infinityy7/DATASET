@@ -1,0 +1,151 @@
+[
+  {
+    "category": "01_core_sft",
+    "owner": "reloading01",
+    "repo": "threat-intelligence-dataset",
+    "url": "https://github.com/reloading01/threat-intelligence-dataset.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\01_core_sft\\reloading01__threat-intelligence-dataset",
+    "started_at": "2026-09-01T00:16:35.697936Z",
+    "status": "ok",
+    "exit_code": 0,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\01_core_sft\\reloading01__threat-intelligence-dataset'...\n",
+    "commit": "f35a0891c6be7c14234db1bcb1ef16b9e55fe77d"
+  },
+  {
+    "category": "01_core_sft",
+    "owner": "Veedubin",
+    "repo": "attacklm-dataset",
+    "url": "https://github.com/Veedubin/attacklm-dataset.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\01_core_sft\\Veedubin__attacklm-dataset",
+    "started_at": "2026-09-01T00:16:47.380565Z",
+    "status": "ok",
+    "exit_code": 0,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\01_core_sft\\Veedubin__attacklm-dataset'...\nUpdating files:   8% (682/8253)\nUpdating files:   9% (743/8253)\nUpdating files:  10% (826/8253)\nUpdating files:  11% (908/8253)\nUpdating files:  12% (991/8253)\nUpdating files:  13% (1073/8253)\nUpdating files:  14% (1156/8253)\nUpdating files:  15% (1238/8253)\nUpdating files:  16% (1321/8253)\nUpdating files:  17% (1404/8253)\nUpdating files:  18% (1486/8253)\nUpdating files:  19% (1569/8253)\nUpdating files:  20% (1651/8253)\nUpdating files:  21% (1734/8253)\nUpdating files:  22% (1816/8253)\nUpdating files:  23% (1899/8253)\nUpdating files:  24% (1981/8253)\nUpdating files:  25% (2064/8253)\nUpdating files:  26% (2146/8253)\nUpdating files:  27% (2229/8253)\nUpdating files:  28% (2311/8253)\nUpdating files:  29% (2394/8253)\nUpdating files:  30% (2476/8253)\nUpdating files:  31% (2559/8253)\nUpdating files:  32% (2641/8253)\nUpdating files:  33% (2724/8253)\nUpdating files:  34% (2807/8253)\nUpdating files:  35% (2889/8253)\nUpdating files:  36% (2972/8253)\nUpdating files:  36% (2990/8253)\nUpdating files:  37% (3054/8253)\nUpdating files:  38% (3137/8253)\nUpdating files:  39% (3219/8253)\nUpdating files:  40% (3302/8253)\nUpdating files:  41% (3384/8253)\nUpdating files:  41% (3409/8253)\nUpdating files:  42% (3467/8253)\nUpdating files:  42% (3513/8253)\nUpdating files:  43% (3549/8253)\nUpdating files:  44% (3632/8253)\nUpdating files:  45% (3714/8253)\nUpdating files:  46% (3797/8253)\nUpdating files:  47% (3879/8253)\nUpdating files:  48% (3962/8253)\nUpdating files:  49% (4044/8253)\nUpdating files:  50% (4127/8253)\nUpdating files:  51% (4210/8253)\nUpdating files:  52% (4292/8253)\nUpdating files:  53% (4375/8253)\nUpdating files:  54% (4457/8253)\nUpdating files:  55% (4540/8253)\nUpdating files:  56% (4622/8253)\nUpdating files:  57% (4705/8253)\nUpdating files:  58% (4787/8253)\nUpdating files:  59% (4870/8253)\nUpdating files:  60% (4952/8253)\nUpdating files:  61% (5035/8253)\nUpdating files:  62% (5117/8253)\nUpdating files:  63% (5200/8253)\nUpdating files:  64% (5282/8253)\nUpdating files:  64% (5356/8253)\nUpdating files:  65% (5365/8253)\nUpdating files:  66% (5447/8253)\nUpdating files:  67% (5530/8253)\nUpdating files:  68% (5613/8253)\nUpdating files:  69% (5695/8253)\nUpdating files:  70% (5778/8253)\nUpdating files:  71% (5860/8253)\nUpdating files:  72% (5943/8253)\nUpdating files:  73% (6025/8253)\nUpdating files:  74% (6108/8253)\nUpdating files:  75% (6190/8253)\nUpdating files:  76% (6273/8253)\nUpdating files:  77% (6355/8253)\nUpdating files:  78% (6438/8253)\nUpdating files:  79% (6520/8253)\nUpdating files:  80% (6603/8253)\nUpdating files:  81% (6685/8253)\nUpdating files:  82% (6768/8253)\nUpdating files:  83% (6850/8253)\nUpdating files:  84% (6933/8253)\nUpdating files:  85% (7016/8253)\nUpdating files:  86% (7098/8253)\nUpdating files:  87% (7181/8253)\nUpdating files:  88% (7263/8253)\nUpdating files:  89% (7346/8253)\nUpdating files:  90% (7428/8253)\nUpdating files:  91% (7511/8253)\nUpdating files:  92% (7593/8253)\nUpdating files:  93% (7676/8253)\nUpdating files:  94% (7758/8253)\nUpdating files:  95% (7841/8253)\nUpdating files:  95% (7884/8253)\nUpdating files:  96% (7923/8253)\nUpdating files:  97% (8006/8253)\nUpdating files:  98% (8088/8253)\nUpdating files:  99% (8171/8253)\nUpdating files: 100% (8253/8253)\nUpdating files: 100% (8253/8253), done.\n",
+    "commit": "431d8589a7d877965707ec66d87f076e7789efa6"
+  },
+  {
+    "category": "01_core_sft",
+    "owner": "theelderemo",
+    "repo": "pentesting-explanations",
+    "url": "https://github.com/theelderemo/pentesting-explanations.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\01_core_sft\\theelderemo__pentesting-explanations",
+    "started_at": "2026-09-01T00:20:49.303212Z",
+    "status": "ok",
+    "exit_code": 0,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\01_core_sft\\theelderemo__pentesting-explanations'...\n",
+    "commit": "c8910cc68231c70c1b73682ed129f33fdb5d4cbd"
+  },
+  {
+    "category": "02_eval_safety",
+    "owner": "centerforaisafety",
+    "repo": "HarmBench",
+    "url": "https://github.com/centerforaisafety/HarmBench.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\centerforaisafety__HarmBench",
+    "started_at": "2026-09-01T00:20:52.573002Z",
+    "status": "ok",
+    "exit_code": 0,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\centerforaisafety__HarmBench'...\nUpdating files:  57% (246/429)\nUpdating files:  58% (249/429)\nUpdating files:  59% (254/429)\nUpdating files:  60% (258/429)\nUpdating files:  61% (262/429)\nUpdating files:  62% (266/429)\nUpdating files:  63% (271/429)\nUpdating files:  64% (275/429)\nUpdating files:  65% (279/429)\nUpdating files:  65% (282/429)\nUpdating files:  65% (283/429)\nUpdating files:  66% (284/429)\nUpdating files:  67% (288/429)\nUpdating files:  68% (292/429)\nUpdating files:  69% (297/429)\nUpdating files:  70% (301/429)\nUpdating files:  71% (305/429)\nUpdating files:  72% (309/429)\nUpdating files:  72% (311/429)\nUpdating files:  73% (314/429)\nUpdating files:  74% (318/429)\nUpdating files:  75% (322/429)\nUpdating files:  76% (327/429)\nUpdating files:  77% (331/429)\nUpdating files:  77% (333/429)\nUpdating files:  78% (335/429)\nUpdating files:  79% (339/429)\nUpdating files:  80% (344/429)\nUpdating files:  81% (348/429)\nUpdating files:  82% (352/429)\nUpdating files:  83% (357/429)\nUpdating files:  84% (361/429)\nUpdating files:  85% (365/429)\nUpdating files:  86% (369/429)\nUpdating files:  87% (374/429)\nUpdating files:  88% (378/429)\nUpdating files:  89% (382/429)\nUpdating files:  90% (387/429)\nUpdating files:  91% (391/429)\nUpdating files:  92% (395/429)\nUpdating files:  93% (399/429)\nUpdating files:  93% (402/429)\nUpdating files:  94% (404/429)\nUpdating files:  95% (408/429)\nUpdating files:  96% (412/429)\nUpdating files:  97% (417/429)\nUpdating files:  98% (421/429)\nUpdating files:  99% (425/429)\nUpdating files: 100% (429/429)\nUpdating files: 100% (429/429), done.\n",
+    "commit": "8e1604d1171fe8a48d8febecd22f600e462bdcdd"
+  },
+  {
+    "category": "02_eval_safety",
+    "owner": "llm-attacks",
+    "repo": "llm-attacks",
+    "url": "https://github.com/llm-attacks/llm-attacks.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\llm-attacks__llm-attacks",
+    "started_at": "2026-09-01T00:21:30.580406Z",
+    "status": "failed",
+    "exit_code": 128,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\llm-attacks__llm-attacks'...\nfatal: unable to access 'https://github.com/llm-attacks/llm-attacks.git/': Could not resolve host: github.com\n"
+  },
+  {
+    "category": "02_eval_safety",
+    "owner": "meta-llama",
+    "repo": "PurpleLlama",
+    "url": "https://github.com/meta-llama/PurpleLlama.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\meta-llama__PurpleLlama",
+    "started_at": "2026-09-01T00:21:42.910354Z",
+    "status": "failed",
+    "exit_code": 128,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\meta-llama__PurpleLlama'...\nfatal: unable to access 'https://github.com/meta-llama/PurpleLlama.git/': Could not resolve host: github.com\n"
+  },
+  {
+    "category": "02_eval_safety",
+    "owner": "Azure",
+    "repo": "PyRIT",
+    "url": "https://github.com/Azure/PyRIT.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\Azure__PyRIT",
+    "started_at": "2026-09-01T00:21:43.170932Z",
+    "status": "failed",
+    "exit_code": 128,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\02_eval_safety\\Azure__PyRIT'...\nfatal: unable to access 'https://github.com/Azure/PyRIT.git/': Could not resolve host: github.com\n"
+  },
+  {
+    "category": "03_payload_wordlists_rag",
+    "owner": "danielmiessler",
+    "repo": "SecLists",
+    "url": "https://github.com/danielmiessler/SecLists.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\danielmiessler__SecLists",
+    "started_at": "2026-09-01T00:21:43.384006Z",
+    "status": "failed",
+    "exit_code": 128,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\danielmiessler__SecLists'...\nfatal: unable to access 'https://github.com/danielmiessler/SecLists.git/': Could not resolve host: github.com\n"
+  },
+  {
+    "category": "03_payload_wordlists_rag",
+    "owner": "swisskyrepo",
+    "repo": "PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\swisskyrepo__PayloadsAllTheThings",
+    "started_at": "2026-09-01T00:21:43.557054Z",
+    "status": "failed",
+    "exit_code": 128,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\swisskyrepo__PayloadsAllTheThings'...\nfatal: unable to access 'https://github.com/swisskyrepo/PayloadsAllTheThings.git/': Could not resolve host: github.com\n"
+  },
+  {
+    "category": "03_payload_wordlists_rag",
+    "owner": "fuzzdb-project",
+    "repo": "fuzzdb",
+    "url": "https://github.com/fuzzdb-project/fuzzdb.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\fuzzdb-project__fuzzdb",
+    "started_at": "2026-09-01T00:21:43.742107Z",
+    "status": "failed",
+    "exit_code": 128,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\fuzzdb-project__fuzzdb'...\nfatal: unable to access 'https://github.com/fuzzdb-project/fuzzdb.git/': Could not resolve host: github.com\n"
+  },
+  {
+    "category": "03_payload_wordlists_rag",
+    "owner": "projectdiscovery",
+    "repo": "nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\projectdiscovery__nuclei-templates",
+    "started_at": "2026-09-01T00:21:43.899202Z",
+    "status": "failed",
+    "exit_code": 128,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\projectdiscovery__nuclei-templates'...\nfatal: unable to access 'https://github.com/projectdiscovery/nuclei-templates.git/': Could not resolve host: github.com\n"
+  },
+  {
+    "category": "03_payload_wordlists_rag",
+    "owner": "foospidy",
+    "repo": "payloads",
+    "url": "https://github.com/foospidy/payloads.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\foospidy__payloads",
+    "started_at": "2026-09-01T00:21:44.036726Z",
+    "status": "ok",
+    "exit_code": 0,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\03_payload_wordlists_rag\\foospidy__payloads'...\n",
+    "commit": "38ac97fc0adfd149dd976f3dbd42c025232aaa47"
+  },
+  {
+    "category": "04_network_packet_analysis",
+    "owner": "Cyphercoda",
+    "repo": "LLM-Packet-Analyzer",
+    "url": "https://github.com/Cyphercoda/LLM-Packet-Analyzer.git",
+    "path": "C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\04_network_packet_analysis\\Cyphercoda__LLM-Packet-Analyzer",
+    "started_at": "2026-09-01T00:22:20.077030Z",
+    "status": "ok",
+    "exit_code": 0,
+    "output_tail": "Cloning into 'C:\\Users\\Vedan\\Desktop\\Pentest_RedTeam_Datasets\\04_network_packet_analysis\\Cyphercoda__LLM-Packet-Analyzer'...\n",
+    "commit": "6c192c7cf020fffcfd69e5cbcf3c9c2a9a6439be"
+  }
+]
