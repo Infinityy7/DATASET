@@ -1,0 +1,73 @@
+{
+  "records": 79,
+  "by_track": {
+    "methodology": 15,
+    "scans": 37,
+    "footholds": 27
+  },
+  "rejected": 0,
+  "rejection_reasons": {},
+  "sha256": "6f0068c79cc12c110f5393fbcf6c522bb64f2d81c4ab6bd07217bf1ecdea7c99",
+  "source_repositories": {
+    "Infinityy7/DATASET": 79
+  },
+  "upstream_datasets": {
+    "reloading0101/threat-intelligence-dataset": 15,
+    "theelderemo/pentesting-explanations": 64
+  },
+  "licenses": {
+    "CC BY 4.0 (upstream dataset; underlying sources retain their own terms)": 15,
+    "Apache-2.0 claimed by source dataset; upstream derivative rights unverified": 37,
+    "Apache-2.0 claimed by derivative; HackTricks/base-eval upstream rights require review": 22,
+    "Apache-2.0 claimed by derivative; MITRE ATT&CK attribution required": 5
+  },
+  "review_statuses": {
+    "source_checked_rewrite": 15,
+    "curated_pending_technical_and_rights_review": 37,
+    "needs_human_review": 27
+  },
+  "topics": {
+    "api-security": 10,
+    "web-application-security": 5,
+    "passive-discovery": 12,
+    "dns-enumeration": 2,
+    "active-discovery": 2,
+    "host-discovery": 2,
+    "vulnerability-scanning": 2,
+    "web-content-discovery": 2,
+    "cloud-discovery": 5,
+    "web-app-validation": 1,
+    "service-enumeration": 1,
+    "passive-network-observation": 1,
+    "local-service-discovery": 2,
+    "image-scanning": 2,
+    "repository-scanning": 1,
+    "false-positive-validation": 1,
+    "scan-interpretation": 1,
+    "scope_and_impact": 1,
+    "sql_injection": 1,
+    "command_injection": 1,
+    "nfs_permissions": 1,
+    "format_string": 1,
+    "memory_corruption": 1,
+    "padding_oracle": 1,
+    "session_fixation": 1,
+    "heartbleed": 1,
+    "unsafe_model_deserialization": 1,
+    "signed_deserialization": 1,
+    "ssrf_dns_rebinding": 2,
+    "archive_path_traversal": 2,
+    "ssrf_url_parsing": 1,
+    "second_order_sql_injection": 1,
+    "ssrf_redirects": 1,
+    "dom_xss": 1,
+    "prototype_pollution": 1,
+    "selinux_denial": 1,
+    "unsafe_deserialization": 1,
+    "remote_service_exposure": 1,
+    "software_supply_chain": 1,
+    "adcs_template": 1,
+    "ics_public_application": 1,
+    "mfa_fatigue": 1
+  }
+}
